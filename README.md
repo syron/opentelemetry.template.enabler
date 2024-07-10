@@ -39,7 +39,7 @@ Make a copy of **compose.example.yaml** and rename it to **compose.yaml**. Also,
 
 ```docker compose up --build```
 
-### Termina/CMD
+### Terminal/CMD
 
 In order to run this service please make sure all environment variables are set.
 
